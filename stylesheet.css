@@ -207,6 +207,12 @@ footer{
 	color:#fff;
 }
 
+.icon{
+  width: 23px;
+  height: 23px;
+  display: inline-block;
+}
+
 @keyframes Puterin{
 	100%{
 		transform: rotate(360deg);
